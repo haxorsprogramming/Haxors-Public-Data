@@ -1,0 +1,4 @@
+git reset --mixed origin/master
+git add .
+git commit -m "Upload Github Lagi"
+git push origin master
