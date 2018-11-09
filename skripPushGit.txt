@@ -1,4 +1,9 @@
+//reset config
 git reset --mixed origin/master
+
+//start
+git init
 git add .
 git commit -m "Upload Github Lagi"
+git remote add origin https://github.com/aisy/js-belajar-react.git 
 git push origin master
