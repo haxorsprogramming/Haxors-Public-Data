@@ -17,6 +17,9 @@ class daftarProgram{
            case "2":
                pro1.programDua();
                this.utama();
+           case "3":
+               System.out.println("Terima kasih telah menggunakan program kami :)");
+               break;
            default:
                System.out.println("Anda tidak memilih program apapun");
                this.utama();
@@ -85,6 +88,7 @@ public class Main {
         System.out.println("Silahkan masukkan nomor program yang ingin dijalankan");
         System.out.println("1. Program perulangan 2 variabel sekali input");
         System.out.println("2. Program faktorial dengan input");
+        System.out.println("3. Keluar");
         tampilProgram.utama();
 
     }
