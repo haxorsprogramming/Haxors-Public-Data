@@ -31,3 +31,5 @@ Laporan praktikum untuk nilai UAS praktikum.
 
 Laporan bobotnya 60%
 Ujian praktikum 40 %
+
+https://dasarpemrogramangolang.novalagung.com/12-seleksi-kondisi.html
