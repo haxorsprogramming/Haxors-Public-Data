@@ -1,0 +1,33 @@
+Praktikum 1 Pengenalan Java
+Pada bagian ini menceritakan tentang konsep dasar java hingga program sederhana (boleh program cetak sederhana)
+
+Praktikum 2 Variabel, tipedata dan operator Java
+Menceritakan tentang konsep dasar dan diakhiri contoh program
+
+Praktikum 3 Seleksi
+Menceritakan konsep seleksi dan contoh program
+
+Praktikum 4 Perulangan
+Menceritakan konsep dasar perulangan dan diakhiri contoh program
+
+Praktikum 5 class, object method
+Memceritakan konsep dasar dan contoh program
+
+Praktikum 6 Pewarisan 
+Menceritakan konsep dasar dan contoh program
+
+Praktikum 7 Polimorpisme
+Konsep dasar dan contoh program
+
+
+Terkait dgn itu, maka Mulailah mencicil laporan praktikumnya
+
+Aturan laporan praktikum akan diberikan panduannya.
+
+
+Tdk ada laporan praktikum.. tdk ada nilai akhir prak OOP
+
+Laporan praktikum untuk nilai UAS praktikum.
+
+Laporan bobotnya 60%
+Ujian praktikum 40 %
