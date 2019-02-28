@@ -1,0 +1,14 @@
+Site address	
+http://35.193.164.50:80/ 
+Admin URL	
+https://35.193.164.50:8443/ 
+Admin user	
+admin
+Admin password (Temporary)	
+vsiw.sD45Kvq
+Instance	
+haxorsdatacenter-vm
+Instance zone	
+us-central1-f
+Instance machine type	
+n1-standard-1
